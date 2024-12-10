@@ -1,0 +1,94 @@
+{
+    "schedule": [
+        {
+            "days": [
+                "A",
+                "B",
+                "C",
+                "E",
+                "F"
+            ],
+            "room": "D201",
+            "class": "AP Statistics",
+            "period": "1",
+            "teacher": "David Patterson"
+        },
+        {
+            "days": [
+                "A",
+                "B",
+                "D",
+                "E",
+                "F"
+            ],
+            "room": "B108",
+            "class": "AP Computer Science",
+            "period": "2",
+            "teacher": "Jennifer Hoagland"
+        },
+        {
+            "days": [
+                "A",
+                "C",
+                "D",
+                "E",
+                "G"
+            ],
+            "room": "B114",
+            "class": "Honors Web Design Pathway Program",
+            "period": "3",
+            "teacher": "Megan Herbert"
+        },
+        {
+            "days": [
+                "B",
+                "C",
+                "D",
+                "F",
+                "G"
+            ],
+            "room": "C106",
+            "class": "AP Language and Composition",
+            "period": "4",
+            "teacher": "Melissa LaPlaga"
+        },
+        {
+            "days": [
+                "A",
+                "B",
+                "D",
+                "E",
+                "G"
+            ],
+            "room": "E115",
+            "class": "AP Microeconmics",
+            "period": "5",
+            "teacher": "Christian Erbig"
+        },
+        {
+            "days": [
+                "A",
+                "D",
+                "F",
+                "G"
+            ],
+            "room": "Gym",
+            "class": "Physical Education",
+            "period": "6",
+            "teacher": "Nicolyn Hastings"
+        },
+        {
+            "days": [
+                "B",
+                "C",
+                "E",
+                "F",
+                "G"
+            ],
+            "room": "G202",
+            "class": "AP Physics 2",
+            "period": "7",
+            "teacher": "Paul Reardon"
+        }
+    ]
+}
